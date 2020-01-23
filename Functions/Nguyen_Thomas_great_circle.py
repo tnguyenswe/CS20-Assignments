@@ -24,25 +24,41 @@ def km_to_miles(k):
 
 #Defines the main function.
 def main():
-    #Gets the latitude and longitudes of both cities from the user.
-    lat1 = math.radians(float(input("Enter the latitude of the first city: ")))
-    lon1 = math.radians(float(input("Enter the longitude of the first city: ")))
-    lat2 = math.radians(float(input("Enter the latitude of the second city: ")))
-    lon2 = math.radians(float(input("Enter the longitude of the second city: ")))
+    #Sets all latitudes and longitudes for each city.
+    sj_lat = math.radians(float(37.33))
+    sj_lon = math.radians(float(-121.9))
+    chicago_lat = math.radians(float(41.83))
+    chicago_lon = math.radians(float(-87.68))
+    washingtondc_lat = math.radians(38.90)
+    washington_dc_lon = math.radians(-77.02)
 
-    #Calls the great_circle_distance function and sets the answer into a variable called distance.
-    distance = great_circle_distance(lat1,lon1,lat2,lon2)
-    #Converts float value of distance to integer value according to the problem.
-    truedistance = int(distance)
+    #Calls the great_circle_distance function and sets the answer into a variable called distance_sj_to_chicago.
+    distance_sj_to_chicago = great_circle_distance(sj_lat,sj_lon,chicago_lat,chicago_lon)
 
+    #Converts float value of distance_sj_to_chicago to integer value according to the problem.
+    truedistance = int(distance_sj_to_chicago)
     #Calls the km_to_miles function and gets the distance between the 2 cities but in miles.
-    distanceinmiles = km_to_miles(distance)
+    distanceinmiles = km_to_miles(distance_sj_to_chicago)
     #Converts float value of distance to integer value according to the problem.
     truedistanceinmiles = int(distanceinmiles)
 
-    #Prints the distances between the cities in kilometers and miles.
-    print("\nThe distance between the 2 cities in kilometers is: " + str(truedistance) + " km")
-    print("The distance between the 2 cities in miles is: " + str(truedistanceinmiles) + " miles")
+    #Prints the distances between San Jose and Chicago kilometers and miles.
+    print("\nThe distance between San Jose and Chicago in kilometers is: " + str(truedistance) + " km")
+    print("The distance between San Jose and Chicago in miles is: " + str(truedistanceinmiles) + " miles")
+
+    #Calls the great_circle_distance function and sets the answer into a variable called distance_chicago_to_dc.
+    distance_chicago_to_dc = great_circle_distance(chicago_lat,chicago_lon,washingtondc_lat,washington_dc_lon)
+
+    #Converts float value of distance_chicago_to_dc to integer value according to the problem.
+    truedistance = int(distance_chicago_to_dc)
+    #Calls the km_to_miles function and gets the distance between the 2 cities but in miles.
+    distanceinmiles = km_to_miles(distance_chicago_to_dc)
+    #Converts float value of distance to integer value according to the problem.
+    truedistanceinmiles = int(distanceinmiles)
+
+   #Prints the distances between Chicago and Washington DC in kilometers and miles.
+    print("\nThe distance between Chicago and Washington DC in kilometers is: " + str(truedistance) + " km")
+    print("The distance between Chicago and Washington DC in miles is: " + str(truedistanceinmiles) + " miles")
 
 #Calls the main function
 main()

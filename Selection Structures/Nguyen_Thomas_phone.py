@@ -60,13 +60,11 @@ def main():
     plan2 = calculations.calculate_cost(n,d,e,f)
     print("Cost for plan 2: $%.2f" % (round(plan2,2)))
 
-    #Determines which plan is cheaper and tells user which one is cheaper.
-    if(round(plan1,2) > (round(plan2,2))):
+    # Determines which plan is cheaper and tells user which one is cheaper.
+    if(plan1 > plan2):
         print("Plan 2 is cheaper.")
-    elif(round(plan2,2) > round(plan1,2)):
+    if(plan2 > plan1):
         print("Plan 1 is cheaper.")
-    else:
-        print("They're the same price.") #In the case of floating point numbers, use test case of "69" or "70". This line will be used.
 
 #Calls the main function.
 main()

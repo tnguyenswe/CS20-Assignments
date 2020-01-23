@@ -1,3 +1,11 @@
+'''
+Name: Thomas Nguyen
+Date: 1/16/20
+Professor: Henry Estrada
+Assignment: Pig Dice
+This program is a game of pig dice, roll the highest number you can without rolling a 1.
+'''
+
 #
 #   The game of "pig"
 #
@@ -21,6 +29,7 @@ def get_roll_or_hold():
     answer = input('R)oll or H)old? ')
     while True:
         if(answer.lower() == 'r' or 'h'):
+            return answer
             break
         else:
             print("You printed an invalid input. Please try again.")
@@ -35,12 +44,15 @@ def play_again():
     while True:
         if (answer.lower() == 'y'):
             playing = True
+            return playing
             break
         if(answer.lower()=='n'):
             playing = False
+            return playing
             break
         else:
             print("Please enter Y for yes or N for no")
+            answer = input('Play again? (Y/N) > ')
 
     # your code goes here
 
@@ -53,8 +65,24 @@ while playing:
     total = 0
     rolling = True
 
+
     while rolling:
         response = get_roll_or_hold()
+        if response=='r':
+            roll = random.randrange(1,7)
+            print("You rolled a", roll)
+            if roll == 1:
+                print("Sorry, you lost this round.")
+                rolling = False
+            else:
+                total += roll
+                print("Your total is now", total)
+        elif response=='h':
+            rolling = False
+        else:
+            print("Please enter R to roll or H to hold.")
+            rolling = True
+
 
     # call get_roll_or_hold() and put return value into a variable named response
     # if the response is 'r':
@@ -70,6 +98,7 @@ while playing:
     #   set rolling to False
 
     if response == 'h':
+        print("Your total for this round is ", total)
     # print total for the round, appropriately labeled
 
     print()  # for spacing

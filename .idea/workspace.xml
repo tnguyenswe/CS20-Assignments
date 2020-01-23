@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0c848c6-8a6e-4bec-ac8e-1ff9277c517a" name="Default Changelist" comment="" />
+    <list default="true" id="f0c848c6-8a6e-4bec-ac8e-1ff9277c517a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dictionaries/Nguyen_Thomas_dna.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exam/Nguyen_Thomas_final.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project/Nguyen_Thomas_customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Project/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lists and Files/Nguyen_Thomas_license.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Objects/clock.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions/Nguyen_Thomas_great_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions/Nguyen_Thomas_great_circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists and Files/Nguyen_Thomas_density.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists and Files/Nguyen_Thomas_density.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Midterm 2/Nguyen_Thomas_pig_dice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Midterm 2/Nguyen_Thomas_pig_dice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selection Structures/Nguyen_Thomas_phone.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selection Structures/Nguyen_Thomas_phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/Nguyen_Thomas_pig_latin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/Nguyen_Thomas_pig_latin.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WLkmq07CcpEZSFI7ABTmOuozir" />
   <component name="ProjectViewState">
@@ -15,12 +39,129 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager" selected="Python.Nguyen_Thomas_customer">
+    <configuration name="Nguyen_Thomas_customer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS20-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Project/Nguyen_Thomas_customer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nguyen_Thomas_density" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS20-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists and Files" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists and Files/Nguyen_Thomas_density.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nguyen_Thomas_final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS20-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Final Exam" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final Exam/Nguyen_Thomas_final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS20-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CS20-Assignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Nguyen_Thomas_customer" />
+        <item itemvalue="Python.Nguyen_Thomas_final" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.Nguyen_Thomas_density" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -48,9 +189,95 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1578936440453">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579027081782">
+      <screen x="0" y="0" width="1440" height="828" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.828@0.0.1440.828" timestamp="1579027081782" />
+    <state x="435" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579802884659">
+      <screen x="0" y="0" width="1440" height="838" />
+    </state>
+    <state x="435" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.838@0.0.1440.838" timestamp="1579802884659" />
+    <state x="353" y="31" key="CommitChangelistDialog2" timestamp="1579156912444">
+      <screen x="0" y="0" width="1440" height="826" />
+    </state>
+    <state x="353" y="31" key="CommitChangelistDialog2/0.0.1440.826@0.0.1440.826" timestamp="1579156912444" />
+    <state width="709" height="245" key="GridCell.Tab.0.bottom" timestamp="1579806186435">
+      <screen x="0" y="0" width="1440" height="836" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.820@0.0.1440.820" timestamp="1578977138196" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.823@0.0.1440.823" timestamp="1579326506981" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.826@0.0.1440.826" timestamp="1579156915524" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.828@0.0.1440.828" timestamp="1579750779121" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.830@0.0.1440.830" timestamp="1579732214557" />
+    <state width="709" height="245" key="GridCell.Tab.0.bottom/0.0.1440.833@0.0.1440.833" timestamp="1579755853191" />
+    <state width="709" height="245" key="GridCell.Tab.0.bottom/0.0.1440.836@0.0.1440.836" timestamp="1579806186435" />
+    <state width="709" height="245" key="GridCell.Tab.0.bottom/0.0.1440.838@0.0.1440.838" timestamp="1579803916749" />
+    <state width="709" height="245" key="GridCell.Tab.0.center" timestamp="1579806186434">
+      <screen x="0" y="0" width="1440" height="836" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.820@0.0.1440.820" timestamp="1578977138194" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.823@0.0.1440.823" timestamp="1579326506979" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.826@0.0.1440.826" timestamp="1579156915523" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.828@0.0.1440.828" timestamp="1579750779119" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.830@0.0.1440.830" timestamp="1579732214556" />
+    <state width="709" height="245" key="GridCell.Tab.0.center/0.0.1440.833@0.0.1440.833" timestamp="1579755853190" />
+    <state width="709" height="245" key="GridCell.Tab.0.center/0.0.1440.836@0.0.1440.836" timestamp="1579806186434" />
+    <state width="709" height="245" key="GridCell.Tab.0.center/0.0.1440.838@0.0.1440.838" timestamp="1579803916747" />
+    <state width="709" height="245" key="GridCell.Tab.0.left" timestamp="1579806186433">
+      <screen x="0" y="0" width="1440" height="836" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.820@0.0.1440.820" timestamp="1578977138193" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.823@0.0.1440.823" timestamp="1579326506979" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.826@0.0.1440.826" timestamp="1579156915521" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.828@0.0.1440.828" timestamp="1579750779119" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.830@0.0.1440.830" timestamp="1579732214555" />
+    <state width="709" height="245" key="GridCell.Tab.0.left/0.0.1440.833@0.0.1440.833" timestamp="1579755853189" />
+    <state width="709" height="245" key="GridCell.Tab.0.left/0.0.1440.836@0.0.1440.836" timestamp="1579806186433" />
+    <state width="709" height="245" key="GridCell.Tab.0.left/0.0.1440.838@0.0.1440.838" timestamp="1579803916747" />
+    <state width="709" height="245" key="GridCell.Tab.0.right" timestamp="1579806186435">
+      <screen x="0" y="0" width="1440" height="836" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.820@0.0.1440.820" timestamp="1578977138195" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.823@0.0.1440.823" timestamp="1579326506980" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.826@0.0.1440.826" timestamp="1579156915524" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.828@0.0.1440.828" timestamp="1579750779120" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.830@0.0.1440.830" timestamp="1579732214556" />
+    <state width="709" height="245" key="GridCell.Tab.0.right/0.0.1440.833@0.0.1440.833" timestamp="1579755853190" />
+    <state width="709" height="245" key="GridCell.Tab.0.right/0.0.1440.836@0.0.1440.836" timestamp="1579806186435" />
+    <state width="709" height="245" key="GridCell.Tab.0.right/0.0.1440.838@0.0.1440.838" timestamp="1579803916748" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1579752094417">
+      <screen x="0" y="0" width="1440" height="833" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.823@0.0.1440.823" timestamp="1579131700307" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.833@0.0.1440.833" timestamp="1579752094417" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1579752094415">
+      <screen x="0" y="0" width="1440" height="833" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.823@0.0.1440.823" timestamp="1579131700305" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.833@0.0.1440.833" timestamp="1579752094415" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1579752094415">
+      <screen x="0" y="0" width="1440" height="833" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.823@0.0.1440.823" timestamp="1579131700305" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.833@0.0.1440.833" timestamp="1579752094415" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1579752094416">
+      <screen x="0" y="0" width="1440" height="833" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.823@0.0.1440.823" timestamp="1579131700306" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.833@0.0.1440.833" timestamp="1579752094416" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1579110289269">
       <screen x="0" y="0" width="1440" height="823" />
     </state>
-    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.823@0.0.1440.823" timestamp="1578936440453" />
+    <state x="399" y="281" key="com.intellij.ide.util.TipDialog/0.0.1440.820@0.0.1440.820" timestamp="1578945296841" />
+    <state x="399" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.823@0.0.1440.823" timestamp="1579110289269" />
+    <state x="509" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579739835772">
+      <screen x="0" y="0" width="1440" height="830" />
+    </state>
+    <state x="509" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.828@0.0.1440.828" timestamp="1579721000634" />
+    <state x="509" y="375" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.830@0.0.1440.830" timestamp="1579739835772" />
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup" timestamp="1579157521427">
+      <screen x="0" y="0" width="1440" height="823" />
+    </state>
+    <state x="385" y="147" width="670" height="676" key="search.everywhere.popup/0.0.1440.823@0.0.1440.823" timestamp="1579157521427" />
   </component>
 </project>
